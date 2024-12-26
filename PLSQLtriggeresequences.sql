@@ -195,8 +195,6 @@ and data_transacao between  to_date ('01/08/2023','DD/MM/YYYY')
                         
 --Simulando o pagamento da fatura
 
---Simular o pagamento da fatura
-
 insert into fat_lancamentos
   (numero_cc
   ,data_transacao
